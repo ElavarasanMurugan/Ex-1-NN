@@ -118,51 +118,51 @@ SHOW YOUR OUTPUT HERE
 
 Load the dataset and Head values
 
-![alt text](<Screenshot 2025-08-19 225557.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 225557.png>)
 
 Shape of the dataset
 
-![alt text](<Screenshot 2025-08-19 225627.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 225627.png>)
 
 Missing values
 
-![alt text](<Screenshot 2025-08-19 225638.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 225638.png>)
 
 Duplicate values
 
-![alt text](<Screenshot 2025-08-19 225648.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 225648.png>)
 
 X values
 
-![alt text](<Screenshot 2025-08-19 225839.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 225839.png>)
 
 Y values
 
-![alt text](<Screenshot 2025-08-19 225847.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 225847.png>)
 
 Description of the dataset
 
-![alt text](<Screenshot 2025-08-19 225900.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 225900.png>)
 
 Dropping the string values
 
-![alt text](<Screenshot 2025-08-19 225913.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 225913.png>)
 
 Normalize the dataset
 
-![alt text](<Screenshot 2025-08-19 225924.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 225924.png>)
 
 X_train
 
-![alt text](<Screenshot 2025-08-19 231455.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 231455.png>)
 
 X_test
 
-![alt text](<Screenshot 2025-08-19 231501.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 231501.png>)
 
 Length of the training and testing sets
 
-![alt text](<Screenshot 2025-08-19 231508.png>)
+![alt text](<screenshots/Screenshot 2025-08-19 231508.png>)
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
